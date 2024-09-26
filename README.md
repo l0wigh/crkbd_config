@@ -2,7 +2,8 @@
 
 This repo contain my layout(s) for AZERTY Coding. Use VIAL to flash them
 
-## Issues
+## Fix History
 
-I have some issues with the V2 when using default Fluorite binding.
-I'll need to change either the kbd layout (most likely) or the Fluorite config
+V2.1
+    - Fixing layer 2 for easier use of Fluorite
+    - Switching from using LShft to RShft for special keys because of a utility on Windows
