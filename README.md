@@ -28,10 +28,8 @@ While in the V3 the left layer key is used to reset the layers and go back to th
 0 -> 1 -> 0 -> 1 -> 2
 ```
 
-The V4 layout is pretty much a mix of the V3 and the V2. I simply added a reset combo that works on any layer. Just press left and right layer key and it goes back to zero.
+The V4 layout is pretty much a mix of the V3 and the V2. I simply added a reset combo that works on any layer. Just press left and right layer key and it goes back to the layer 0.
 It's a safer solution for the V2 and more efficient solution for the V3.
-
-Both are pretty much fully useable for coding. I do prefer the third one to avoid typing in the wrong layer. Easier on my mind to work like that.
 
 ## Why you use temporary layout toggle only on one layer
 
@@ -59,7 +57,7 @@ The minor version really represent how tweaked the keyboard is.
 ## Fix History
 
 - V4.2
-  - Adding a reset combo on top of the V2 layer chain system.
+  - Adding a reset combo (V3 style) on top of the V2 layer chain system.
 - V3.2
   - Reset layer button is now present on the left thumb for less brain damage when I'm lost.
   - The ç tap dance is now hold instead of double tap for easier access and less mistypes.
