@@ -2,6 +2,8 @@
 
 This repo contain my layout(s) for AZERTY Coding with the Corne keyboard. Using VIAL to flash them
 
+Currently using the **V4.2**. Might change in the future
+
 ## What compose this layout
 
 There is 4 main layers :
@@ -26,6 +28,9 @@ While in the V3 the left layer key is used to reset the layers and go back to th
 0 -> 1 -> 0 -> 1 -> 2
 ```
 
+The V4 layout is pretty much a mix of the V3 and the V2. I simply added a reset combo that works on any layer. Just press left and right layer key and it goes back to zero.
+It's a safer solution for the V2 and more efficient solution for the V3.
+
 Both are pretty much fully useable for coding. I do prefer the third one to avoid typing in the wrong layer. Easier on my mind to work like that.
 
 ## Why you use temporary layout toggle only on one layer
@@ -42,7 +47,7 @@ It's just me testing some strange stuff that can be done with the software.
 
 It's the same layout that the V2, but with a different way to work in mind. Read the MORPHO.md to know more.
 
-## How versionning works
+## How versioning works
 
 Every major number change, means that I use a new method to play with layers.
 Minor ones means that I fix some letters and do some little tweaks.
@@ -53,6 +58,8 @@ The minor version really represent how tweaked the keyboard is.
 
 ## Fix History
 
+- V4.2
+  - Adding a reset combo on top of the V2 layer chain system.
 - V3.2
   - Reset layer button is now present on the left thumb for less brain damage when I'm lost.
   - The ç tap dance is now hold instead of double tap for easier access and less mistypes.
