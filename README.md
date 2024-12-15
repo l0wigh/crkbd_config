@@ -70,6 +70,7 @@ Minor ones means that I fix some letters and do some little tweaks.
 
 - V3.4
   - Adding macros to also change colors based on the layer im in (only for fixed layer, the fourth one isn't affected)
+  - Adding ï macros and tap dance
 - V4.3
   - Same fixes as the V3.3
   - Adding tap dance for caps lock on the Rshift key since V3 uses the reset combo for caps lock
